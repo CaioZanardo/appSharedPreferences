@@ -9,7 +9,7 @@ Existe 2 botões em switch cada um com sua função e armazenando o status com o
 - botão "Dia" quando estiver ligado o fundo fica branco e texto altera para cor preta;
 - botão "Pequena" quando estiver ligado diminue a letra do texto;
 
-## Exemplo
+## Exemplos
 ![PRINT!](desligado.png)
 
 ![PRINT!](ligado.png)
